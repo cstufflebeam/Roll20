@@ -1,0 +1,251 @@
+Basilisk
+Medium Magical Beast
+Hit Dice: 6d10+12 (45 hp)
+Initiative: ¡V1
+Speed: 20 ft. (4 squares)
+Armor Class: 16 (¡V1 Dex, +7 natural),
+touch 9, flat-footed 16
+Base Attack/Grapple: +6/+8
+Attack: Bite +8 melee (1d8+3)
+Full Attack: Bite +8 melee (1d8+3)
+Space/Reach: 5 ft./5 ft.
+Special Attacks: Petrifying gaze
+Special Qualities: Darkvision 60 ft., low-light vision
+Saves: Fort +9, Ref +4, Will +3
+Abilities: Str 15, Dex 8, Con 15,
+Int 2, Wis 12, Cha 11
+Skills: Hide +0*, Listen +7, Spot +7
+Feats: Alertness, Blind-Fight,
+Great Fortitude
+Environment: Warm deserts
+Organization: Solitary or colony (3¡V6)
+Challenge Rating:5
+Treasure: None
+Alignment: Always neutral
+Advancement: 7¡V10 HD (Medium); 11¡V18 HD (Large)
+Level Adjustment:¡X
+========
+TROGLODYTE
+Medium Humanoid
+(Reptilian)
+Hit Dice: 2d8+4 (13 hp)
+Initiative: ¡V1
+Speed: 30 ft. (6 squares)
+Armor Class: 15 (¡V1 Dex,
++6 natural), touch 9,
+flat-footed 15
+Base Attack/Grapple:
++1/+1
+Attack: Club +1 melee
+(1d6) or claw +1 melee
+(1d4) or javelin +1
+ranged (1d6)
+Full Attack: Club +1 melee
+(1d6) and claw ¡V1 melee (1d4) and bite ¡V1 melee (1d4); or 2
+claws +1 melee (1d4) and bite ¡V1 melee (1d4); or javelin +1
+ranged (1d6)
+Space/Reach: 5 ft./5 ft.
+Special Attacks: Stench
+Special Qualities: Darkvision 90 ft.
+Saves: Fort +5, Ref ¡V1, Will +0
+Abilities: Str 10, Dex 9, Con 14, Int 8, Wis 10, Cha 10
+Skills: Hide +5*, Listen +3
+Feats: MultiattackB, Weapon Focus (javelin)
+Environment: Underground
+Organization: Clutch (2¡V5), squad (6¡V11 plus 1¡V2 monitor
+lizards), or band (20¡V80 plus 20% noncombatants plus 3¡V13
+monitor lizards)
+Challenge Rating: 1
+Treasure: 50% coins; 50% goods; 50% items
+Alignment: Usually chaotic evil
+Advancement: By character class
+Level Adjustment: +2
+======
+Troll
+Large Giant
+Hit Dice: 6d8+36 (63 hp)
+Initiative: +2
+Speed: 30 ft. (6 squares)
+Armor Class: 16 (¡V1 size, +2 Dex, +5 natural),
+touch 11, flat-footed 14
+Base Attack/Grapple: +4/+14
+Attack: Claw +9 melee (1d6+6)
+Full Attack: 2 claws +9 melee (1d6+6) and
+bite +4 melee (1d6+3)
+Space/Reach: 10 ft./10 ft.
+Special Attacks: Rend 2d6+9
+Special Qualities: Darkvision 90 ft., low-light vision,
+regeneration 5, scent
+Saves: Fort +11, Ref +4,Will +3
+Abilities: Str 23, Dex 14, Con 23,
+Int 6,Wis 9, Cha 6
+Skills: Listen +5, Spot +6
+Feats: Alertness, IronWill, Track
+Environment: Cold mountains
+(Scrag: Cold aquatic)
+Organization: Solitary or gang (2¡V4)
+Challenge Rating:5
+Treasure: Standard
+Alignment: Usually chaotic evil
+Advancement: By character class
+Level Adjustment: +5
+Rend (Ex): If a troll hits with both claw attacks, it latches onto
+the opponent¡¦s body and tears the flesh. This attack automatically
+deals an additional 2d6+9 points of damage.
+Regeneration (Ex): Fire and acid deal normal damage to a troll.
+If a troll loses a limb or body part, the lost portion regrows in
+3d6 minutes. The creature can reattach the severed member
+instantly by holding it to the stump.
+=======
+Umber Hulk
+Large Aberration
+Hit Dice: 8d8+35 (71 hp)
+Initiative: +1
+Speed: 20 ft. (4 squares), burrow 20 ft.
+Armor Class: 18 (¡V1 size, +1 Dex, +8 natural), touch 10, flat-
+Base Attack/Grapple: +6/+16
+Attack: Claw +11 melee (2d4+6)
+Full Attack: 2 claws +11 melee (2d4+6) and bite +9 melee
+Space/Reach: 10 ft./10 ft.
+Special Attacks: Confusing gaze
+Special Qualities: Darkvision 60 ft., tremorsense 60 ft.
+Saves: Fort +8, Ref +3, Will +6
+Abilities: Str 23, Dex 13, Con 19,
+Int 11, Wis 11, Cha 13
+Skills: Climb +12, Jump +5, Listen +11
+Feats: Great Fortitude, Multiattack, Toughness
+Environment: Underground
+Organization: Solitary or cluster (2¡V4)
+Challenge Rating: 7
+Treasure: Standard
+Alignment: Usually chaotic evil
+Advancement: 9¡V12 HD (Large); 13¡V24 HD (Huge)
+Level Adjustment: ¡X
+======
+CARRION CRAWLER
+Large Aberration
+Hit Dice: 3d8+6 (19 hp)
+Initiative: +2
+Speed: 30 ft. (6 squares), climb 15 ft.
+Armor Class: 17 (¡V1 size, +2 Dex, +6 natural), touch 11,
+flat-footed 15
+Base Attack/Grapple: +2/+8
+Attack: Tentacle +3 melee (paralysis)
+Full Attack: 8 tentacles +3 melee (paralysis) and bite ¡V2 melee
+(1d4+1)
+Space/Reach: 10 ft./5 ft.
+Special Attacks: Paralysis
+Special Qualities: Darkvision 60 ft., scent
+Saves: Fort +3, Ref +3, Will +5
+Abilities: Str 14, Dex 15, Con 14, Int 1, Wis 15, Cha 6
+Skills: Climb +12, Listen +6, Spot +6
+Feats: AlertnessB, Combat Reflexes, Track
+Environment: Underground
+Organization: Solitary, pair, or cluster (3¡V5)
+Challenge Rating: 4
+Treasure: None
+Alignment: Always neutral
+Advancement: 4¡V6 HD (Large); 7¡V9 HD (Huge)
+Level Adjustment: ¡X
+======
+GORGON
+Large Magical Beast
+Hit Dice: 8d10+40 (85 hp)
+Initiative: +4
+Speed: 30 ft. (6 squares)
+Armor Class: 20 (¡V1 size, +11 natural), touch 9, flat-footed 20
+Base Attack/Grapple: +8/+17
+Attack: Gore +12 melee (1d8+7)
+Full Attack: Gore +12 melee (1d8+7)
+Space/Reach: 10 ft./5 ft.
+Special Attacks: Breath weapon, trample 1d8+7
+Special Qualities: Darkvision 60 ft., lowlight
+vision, scent
+Saves: Fort +11, Ref +6, Will
++5
+Abilities: Str 21, Dex
+10, Con 21, Int 2,
+Wis 12, Cha 9
+Skills: Listen +9, Spot +8
+Feats: Alertness, Improved
+Initiative, Iron Will
+Environment: Temperate plains
+Organization: Solitary, pair, pack (3¡V4),
+or herd (5¡V13)
+Challenge Rating: 8
+Treasure: None
+Alignment: Always neutral
+Advancement: 9¡V15 HD (Large); 16¡V24 HD
+(Huge)
+Level Adjustment: ¡X
+============
+Razor Boar
+Size/Type:Large Magical Beast
+Hit Dice:15d10+45 (127 hp)
+Initiative:+1
+Speed:50 ft.
+Armor Class:27 (-1 size, +1 Dex, +17 natural), touch 10, flat-footed 26
+Base Attack/Grapple:+15/+27
+Attack:Tusk slash +22 melee (1d8+8)
+Full Attack:Tusk slash +22 (1d8+8) and 2 hooves +17 melee (1d4+4), or bite +22 melee (1d8+8)
+Space/Reach:10 ft./5 ft.
+Special Attacks:Trample 2d6+12, vorpal tusks
+Special Qualities:Darkvision 60 ft., damage reduction 5/¡X, fast healing 10, low-light vision, scent, spell resistance 21
+Saves:Fort +12, Ref +10, Will +7
+Abilities:Str 27, Dex 13, Con 17, Int 2, Wis 14, Cha 9
+Skills:Listen +10, Spot +10, Survival +8
+Feats:Alertness, Awesome Blow, Diehard, Endurance, Improved Bull Rush, Power Attack
+Environment:Temperate or Warm Forests or Mountains
+Organization:Solitary
+Challenge Rating:10
+Treasure:None
+Alignment:Always Neutral
+Advancement:16-30 (Large), 31-45 (Huge)
+Level Adjustment:¡X
+============
+Tarrasque
+Size/Type:Colossal Magical Beast
+Hit Dice:48d10+594 (858 hp)
+Initiative:+7
+Speed:20 ft. (4 squares)
+Armor Class:35 (-8 size, +3 Dex, +30 natural), touch 5, flat-footed 32
+Base Attack/Grapple:+48/+81
+Attack:Bite +57 melee (4d8+17/18-20/¡Ñ3)
+Full Attack:Bite +57 melee (4d8+17/18-20/¡Ñ3) and 2 horns +52 melee (1d10+8) and 2 claws +52 melee (1d12+8) and tail slap +52 melee (3d8+8)
+Space/Reach:30 ft./20 ft.
+Special Attacks:Augmented critical, frightful presence, improved grab, rush, swallow whole
+Special Qualities:Carapace, damage reduction 15/epic, immunity to fire, poison, disease, energy drain, and ability damage, regeneration 40, scent, spell resistance 32
+Saves:Fort +38, Ref +29, Will +20
+Abilities:Str 45, Dex 16, Con 35, Int 3, Wis 14, Cha 14
+Skills:Listen +17, Search +9, Spot +17, Survival +14 (+16 following tracks)
+Feats:Alertness, Awesome Blow, Blind-Fight, Cleave, Combat Reflexes, Dodge, Great Cleave, Improved Bull Rush, Improved Initiative, Iron Will, Power Attack, Toughness (6)
+Environment:Any
+Organization:Solitary
+Challenge Rating:20
+Treasure:None
+Alignment:Always neutral
+Advancement:49+ HD (Colossal)
+Level Adjustment:¡X
+The tarrasque is 70 feet long and 50 feet tall, and it weighs about 130 tons.
+The tarrasque cannot speak.
+Combat
+The tarrasque attacks with its claws, teeth, horns, and tail.
+The tarrasque¡¦s natural weapons are treated as epic weapons for the purpose of overcoming damage reduction.
+Augmented Critical (Ex)
+The tarrasque¡¦s bite threatens a critical hit on a natural attack roll of 18-20, dealing triple damage on a successful critical hit.
+Frightful Presence (Su)
+The tarrasque can inspire terror by charging or attacking. Affected creatures must succeed on a DC 36 Will save or become shaken, remaining in that condition as long as they remain with 60 feet of the tarrasque. The save DC is Charisma-based.
+Improved Grab (Ex)
+To use this ability, the tarrasque must hit a Huge or smaller opponent with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can try to swallow the foe the following round.
+Rush (Ex)
+Once per minute, the normally slow-moving tarrasque can move at a speed of 150 feet.
+Swallow Whole (Ex)
+The tarrasque can try to swallow a grabbed opponent of Huge or smaller size by making a successful grapple check. Once inside, the opponent takes 2d8+8 points of crushing damage plus 2d8+6 points of acid damage per round from the tarrasque¡¦s digestive juices. A swallowed creature can cut its way out by dealing 50 points of damage to the tarrasque¡¦s digestive tract (AC 25). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out. The tarrasque¡¦s gullet can hold 2 Huge, 8 Large, 32 Medium, 128 Small, or 512 Tiny or smaller creatures.
+Carapace (Ex)
+The tarrasque¡¦s armorlike carapace is exceptionally tough and highly reflective, deflecting all rays, lines, cones, and even magic missile spells. There is a 30% chance of reflecting any such effect back at the caster; otherwise, it is merely negated. Check for reflection before rolling to overcome the creature¡¦s spell resistance.
+Regeneration (Ex)
+No form of attack deals lethal damage to the tarrasque. The tarrasque regenerates even if it fails a saving throw against a disintegrate spell or a death effect. If the tarrasque fails its save against a spell or effect that would kill it instantly (such as those mentioned above), the spell or effect instead deals nonlethal damage equal to the creature¡¦s full normal hit points +10 (or 868 hp). The tarrasque is immune to effects that produce incurable or bleeding wounds, such as mummy rot, a sword with the wounding special ability, or a clay golem¡¦s cursed wound ability.
+The tarrasque can be slain only by raising its nonlethal damage total to its full normal hit points +10 (or 868 hit points) and using a wish or miracle spell to keep it dead.
+If the tarrasque loses a limb or body part, the lost portion regrows in 1d6 minutes (the detached piece dies and decays normally). The creature can reattach the severed member instantly by holding it to the stump.
+Skills
+The tarrasque has a +8 racial bonus on Listen and Spot checks.
