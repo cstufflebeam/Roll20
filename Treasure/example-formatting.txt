@@ -1,0 +1,28 @@
+"Treasure Import" handout example:
+CR d% Coins Goods Items
+1 01¡V07 ¡X ¡X ¡X
+08¡V10 1d3¡Ñ1,000 cp ¡X ¡X
+11¡V21 1d3¡Ñ100 sp ¡X 1/2
+22¡V44 3d6¡Ñ100 sp A 1
+
+** This should be directly copy/pasted from the "Random Treasure" tables of the magic item compendium. **
+
+
+"Item Import" handout example:
+1/2-Level Items
+d% Page Item Name
+01 P128 Acid
+02¡V03 P126 Lantern, bullseye
+04 S42 Scroll of caltropsSC (A)
+05 P215 Scroll of create water (D)
+
+** This should be directly copy/pasted from the "Random items" tables of the magic item compendium. **
+
+
+"Item Descriptions Import" handout example:
+P126 Armor/shield, masterwork ¡V1 to armor check penalty 150+
+D221 Darkwood buckler Light wooden shield has no armor check penalty 215
+D221 Darkwood shield Heavy wooden shield has no armor check penalty 257
+D221 Mithral heavy shield Mithral heavy shield has 5% arcane spell failure and no armor check penalty 1,020
+
+** This should be directly copy/pasted from the "Magic Items by Price" table of the magic item compendium. **
