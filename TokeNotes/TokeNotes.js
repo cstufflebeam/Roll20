@@ -3,8 +3,10 @@ var gmn = gmn || {};
 gmn.gmNotesBar = "bar2_value";
 
 gmn.SanitizePopupData = function(x) {
-    x = x.replace(new RegExp(" ", "g"), " "); // Replace space character with unicode non-breaking character
-    x = x.replace(new RegExp("-", "g"), " "); // Replace the real dash with a unicode substitute (dash causes a linebreak).
+    x = x.replace(/ /g, " "); // Replace space character with unicode non-breaking character
+    x = x.replace(/-/g, " "); // Replace the real dash with a unicode substitute (dash causes a linebreak).
+    x = x.replace(/\(/g, "﹙"); // Replace left paren with unicode substitute (Causes linebreak)
+    x = x.replace(/\)/g, "﹚"); // replace right paren with unicode substitute (Causes linebreak)
     return x;
 };
 
@@ -30,10 +32,11 @@ gmn.SetPopupData = function(data, token, bar, size) {
     // End presentation layer hack.
 };
 
+
 on("change:graphic:gmnotes", function(obj, prev) {
     var data = obj.get("gmnotes");
     if (data.length > 0)
-	gmn.SetPopupData(decodeURIComponent(data).split("<br>"), obj, gmn.gmNotesBar, Math.ceil(obj.get("width")/70) - 1);
+    gmn.SetPopupData(unescape(data).split("<br>"), obj, gmn.gmNotesBar, Math.ceil(obj.get("width")/70) - 1);
     else
 	obj.set(gmNotesBar, "");
 });
