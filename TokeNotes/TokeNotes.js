@@ -17,7 +17,6 @@ gmn.LineWrap = function(seperator, sanitizedData) {
     var rr = sanitizedData.match(lineWrapReg);
     var wrapMode = false;
     if (rr && sanitizedData.length>gmn.lineLength) {
-	log("Wrapping: " + sanitizedData);
 	output = " "+seperator;
 	for(var j=0;j<rr.length;j++) {
 	    // Find last "space" (Unicode character, since data has already been sanitized).
@@ -58,7 +57,6 @@ gmn.SetPopupData = function(data, token, bar, size) {
     }
     if (fmt.length <= 90)
 	fmt = fmt.concat(seperator.repeat(Math.ceil((90-fmt.length)/14)));
-    //log("Setting fmt to "+fmt);
     token.set(bar, fmt);
     // End presentation layer hack.
 };
